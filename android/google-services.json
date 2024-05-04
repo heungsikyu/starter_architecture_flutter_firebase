@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391720803742",
+    "firebase_url": "https://authfirebase-5cb63-default-rtdb.firebaseio.com",
+    "project_id": "authfirebase-5cb63",
+    "storage_bucket": "authfirebase-5cb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391720803742:android:0f11096fdcf65f8ffb8a8f",
+        "android_client_info": {
+          "package_name": "com.hsyou.starterArchitectureFlutterFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391720803742-g5hj6atfa8m2r09i78ovi4458k9l4sk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKKpnLCQ-tjAD2-PfCPc4d4G4ku4wJSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391720803742-g5hj6atfa8m2r09i78ovi4458k9l4sk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391720803742-otkoh1b6adv77sfft4qcev53gc1lk7h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hsyou.starterArchitectureFlutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
